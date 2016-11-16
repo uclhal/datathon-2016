@@ -35,7 +35,7 @@ Prior to requesting access to MIMIC, you will need to complete the CITI “Data 
 
 - Create an account on PhysioNet using the following link: https://physionet.org/users/login.shtml
 
-![](./assets/physionet.png)
+![](./assets/physionet-works.png)
 
 - Using your PhysioNet username and password, login to the MIMIC-III project with the following link: https://physionet.org/works/MIMICIIIClinicalDatabase/access.shtml.
 - Read the Data Use Agreement. If you agree, click the "I agree" button and then follow the instructions for requesting access by email. You should include attach your CITI certificate and include the following details in your email:
