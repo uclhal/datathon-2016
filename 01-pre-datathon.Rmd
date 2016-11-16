@@ -29,7 +29,7 @@ Prior to requesting access to MIMIC, you will need to complete the CITI “Data 
 
 ![](./assets/citi-specimens.png)
 
-- Complete the course and save a PDF copy of your certificate by clicking on the "My Reports" tab, then selecting the relevant "View/Print" link in the completion report column.  Your completion report should list all of the modules you completed for the course, with associated scores.
+- Complete the course and save a PDF copy of your certificate by clicking on the "My Reports" tab, then selecting the relevant "View/Print" link in the completion report column.  Your completion report should list all of the modules you completed for the course, with associated scores. You will need this PDF for the application in the next section.
 
 ## 2. Request access to MIMIC-III:
 
