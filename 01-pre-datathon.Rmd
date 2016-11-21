@@ -1,6 +1,5 @@
 ---
 title: "Before the datathon begins"
-author: "Tom Pollard and Alistair Johnson"
 date: "16 November 2016"
 output:
   html_document:
