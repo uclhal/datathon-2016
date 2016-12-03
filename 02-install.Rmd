@@ -37,9 +37,9 @@ MIMIC supports a diverse range of analytic studies spanning epidemiology, clinic
 
 The following sections will guide you through the major steps in setting up your environment. We have also prepared operating system specific guides, which we recommend you open in a separate tab.
 
-- [Instructions for Mac OS X](http://datascibc/datathon-2016/02a-install-mac.md)
-- [Instructions for Windows](http://datascibc/datathon-2016/02b-install-windows.md)
-- [Instructions for Linux (Ubuntu)](http://datascibc/datathon-2016/02c-install-ubuntu.md)
+- [Instructions for Mac OS X](https://github.com/datascibc/datathon-2016/blob/master/02a-install-mac.md)
+- [Instructions for Windows](https://github.com/datascibc/datathon-2016/blob/master/02b-install-windows.md)
+- [Instructions for Linux (Ubuntu)](https://github.com/datascibc/datathon-2016/blob/master/02c-install-ubuntu.md)
 
 #### 1. Installing PostgreSQL, a relational database system
 
